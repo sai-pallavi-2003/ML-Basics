@@ -1,2 +1,2 @@
-# PythonBasics-And-DatavisualizationUsingPython
-This repository contains Python Basics, DataStructures in Python and DataVisualization in Python
+# Basics of Machine Learning.
+This repository contains Basics of Python and DataStructures in Python and DataVisualization using Python
